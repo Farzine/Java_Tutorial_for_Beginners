@@ -17,7 +17,7 @@ interface BlowHorn{
 
 class AvonCycle implements Bicycle,BlowHorn{
 
-    void vlowHorn(){
+    void blowHorn(){
         System.out.println("Pepepe");
     }
 
